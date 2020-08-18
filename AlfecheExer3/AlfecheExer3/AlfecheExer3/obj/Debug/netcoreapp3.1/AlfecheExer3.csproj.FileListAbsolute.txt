@@ -1,0 +1,11 @@
+C:\Users\JK894XT\Documents\CAA\Locker\UPOU\AlfecheExer3\AlfecheExer3\AlfecheExer3\bin\Debug\netcoreapp3.1\AlfecheExer3.exe
+C:\Users\JK894XT\Documents\CAA\Locker\UPOU\AlfecheExer3\AlfecheExer3\AlfecheExer3\bin\Debug\netcoreapp3.1\AlfecheExer3.deps.json
+C:\Users\JK894XT\Documents\CAA\Locker\UPOU\AlfecheExer3\AlfecheExer3\AlfecheExer3\bin\Debug\netcoreapp3.1\AlfecheExer3.runtimeconfig.json
+C:\Users\JK894XT\Documents\CAA\Locker\UPOU\AlfecheExer3\AlfecheExer3\AlfecheExer3\bin\Debug\netcoreapp3.1\AlfecheExer3.runtimeconfig.dev.json
+C:\Users\JK894XT\Documents\CAA\Locker\UPOU\AlfecheExer3\AlfecheExer3\AlfecheExer3\bin\Debug\netcoreapp3.1\AlfecheExer3.dll
+C:\Users\JK894XT\Documents\CAA\Locker\UPOU\AlfecheExer3\AlfecheExer3\AlfecheExer3\bin\Debug\netcoreapp3.1\AlfecheExer3.pdb
+C:\Users\JK894XT\Documents\CAA\Locker\UPOU\AlfecheExer3\AlfecheExer3\AlfecheExer3\obj\Debug\netcoreapp3.1\AlfecheExer3.csprojAssemblyReference.cache
+C:\Users\JK894XT\Documents\CAA\Locker\UPOU\AlfecheExer3\AlfecheExer3\AlfecheExer3\obj\Debug\netcoreapp3.1\AlfecheExer3.AssemblyInfoInputs.cache
+C:\Users\JK894XT\Documents\CAA\Locker\UPOU\AlfecheExer3\AlfecheExer3\AlfecheExer3\obj\Debug\netcoreapp3.1\AlfecheExer3.AssemblyInfo.cs
+C:\Users\JK894XT\Documents\CAA\Locker\UPOU\AlfecheExer3\AlfecheExer3\AlfecheExer3\obj\Debug\netcoreapp3.1\AlfecheExer3.dll
+C:\Users\JK894XT\Documents\CAA\Locker\UPOU\AlfecheExer3\AlfecheExer3\AlfecheExer3\obj\Debug\netcoreapp3.1\AlfecheExer3.pdb
